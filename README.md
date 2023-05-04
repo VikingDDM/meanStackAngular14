@@ -7,8 +7,6 @@ We will build a full-stack Tutorial Application in that:
 - User can create, retrieve, update, delete Tutorials.
 - There is a search box for finding Tutorials by title.
 
-![mean-stack-crud-example-angular-14](mean-stack-crud-example-angular-14.png)
-
 Tutorial link: 
 
 > [MEAN stack with Angular 14 CRUD example](https://www.bezkoder.com/mean-stack-crud-example-angular-14/)
